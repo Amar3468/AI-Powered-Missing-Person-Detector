@@ -1,39 +1,4 @@
-# Find Missing Person using AI
-![Issues]([https://img.shields.io/github/issues/gaganmanku96/Finding-missing-person-using-AI](https://www.linkedin.com/in/amardeep-0708aa257/)) ![Stars](https://img.shields.io/github/stars/gaganmanku96/Finding-missing-person-using-AI?style=social)
-![CodeRabbit Reviews](https://img.shields.io/coderabbit/prs/github/gaganmanku96/Finding-missing-person-using-AI?utm_source=oss&utm_medium=github&utm_campaign=gaganmanku96%2FFinding-missing-person-using-AI&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
-
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white&height=20)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=mediapipe&logoColor=white&height=20)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&height=20)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white&height=20)
-
-### Endorse me at LinkedIn if this project was helpful. [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gaganmanku96/)
-
-
-Hundreds of people (especially children go missing every day) in India. There are various <b>NGO's and Govt Initiatives</b> to help with it. This project tries to implement an  existing/new way to help.
-
-### News Articles
-
-<img src="./resources/image.png" alt="News Article 1" width="400" height="100"/>
-<img src="./resources/image-1.png" alt="News Article 2" width="400" height="100"/>
-<img src="./resources/image-2.png" alt="News Article 3" width="400" height="100"/>
-<img src="./resources/image-3.png" alt="News Article 4" width="400" height="250"/>
-
-### Screenshots
-
-<table>
-  <tr>
-    <td><img src="./resources/ss_image.png" width="200" alt="Description 1"></td>
-    <td><img src="./resources/ss_image-1.png" width="200" alt="Description 2"></td>
-    <td><img src="./resources/ss_image-2.png" width="200" alt="Description 3"></td>
-  </tr>
-  <tr>
-    <td><img src="./resources/ss_image-3.png" width="200" alt="Description 4"></td>
-    <td><img src="./resources/ss_image-4.png" width="200" alt="Description 5"></td>
-    <td><img src="./resources/ss_image-5.png" width="200" alt="Description 6"></td>
-  </tr>
-</table>
 
 
 ## What is the objective of this Project and how will it help?
@@ -91,4 +56,5 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 ### Vote of Thanks
 - Thanks to the [MediaPipe](https://mediapipe.dev/) team for their open-source face mesh solution, now powering this project!
+
 
